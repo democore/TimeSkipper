@@ -1,0 +1,8 @@
+{
+    "displayName": "TimeSkipper",
+    "author": "Democore",
+    "version": "1.0.0.0",
+    "description": "Adds a Button to skip time",
+
+    "assemblyFileName": "TimeSkipper.dll"
+}

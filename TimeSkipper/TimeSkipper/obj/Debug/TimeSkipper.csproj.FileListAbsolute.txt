@@ -1,0 +1,16 @@
+D:\stardewDEV\TimeSkipper\TimeSkipper\TimeSkipper\obj\Debug\TimeSkipper.csprojResolveAssemblyReference.cache
+D:\stardewDEV\TimeSkipper\TimeSkipper\TimeSkipper\bin\Debug\TimeSkipper.dll
+D:\stardewDEV\TimeSkipper\TimeSkipper\TimeSkipper\bin\Debug\TimeSkipper.pdb
+D:\stardewDEV\TimeSkipper\TimeSkipper\TimeSkipper\bin\Debug\StormLoader.exe
+D:\stardewDEV\TimeSkipper\TimeSkipper\TimeSkipper\bin\Debug\xTile.dll
+D:\stardewDEV\TimeSkipper\TimeSkipper\TimeSkipper\bin\Debug\Mono.Cecil.dll
+D:\stardewDEV\TimeSkipper\TimeSkipper\TimeSkipper\bin\Debug\Newtonsoft.Json.dll
+D:\stardewDEV\TimeSkipper\TimeSkipper\TimeSkipper\bin\Debug\Castle.Core.dll
+D:\stardewDEV\TimeSkipper\TimeSkipper\TimeSkipper\bin\Debug\StormLoader.pdb
+D:\stardewDEV\TimeSkipper\TimeSkipper\TimeSkipper\bin\Debug\Newtonsoft.Json.xml
+D:\stardewDEV\TimeSkipper\TimeSkipper\TimeSkipper\bin\Debug\Castle.Core.xml
+D:\stardewDEV\TimeSkipper\TimeSkipper\TimeSkipper\obj\Debug\TimeSkipper.dll
+D:\stardewDEV\TimeSkipper\TimeSkipper\TimeSkipper\obj\Debug\TimeSkipper.pdb
+C:\Users\Niky\AppData\Roaming\StardewValley\Mods\TimeSkipper\TimeSkipper.dll
+C:\Users\Niky\AppData\Roaming\StardewValley\Mods\TimeSkipper\TimeSkipper.pdb
+C:\Users\Niky\AppData\Roaming\StardewValley\Mods\TimeSkipper\forwardButton.png
